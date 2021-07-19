@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+.DStore
+*.DStore
+*.ipynb_checkpoints
+*.RData
+*.Rhistory
+*__pycache__
